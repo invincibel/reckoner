@@ -37,7 +37,7 @@
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/invincibel/reckoner/` or `https://github.com/090max/Amazon-Reckoner`
+- Clone this repo to your local machine using `https://github.com/invincibel/reckoner/`
 
 ### Setup
 
